@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import os
 from dotenv import load_dotenv
-from functions import *
+from gradient_api import load_api_token, get_game_list, get_gameEvents_for_game_list
 
 header = load_api_token()
 
