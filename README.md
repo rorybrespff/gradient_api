@@ -1,5 +1,5 @@
 # gradient_api
-GradientPy is a Python library developed by Gradient Sports (https://fc.pff.com/) to provide a convenient way to access the Gradient Sport REST API from applications written in Python.
+GradientPy is a Python library developed by Gradient Sports (https://www.gradientsports.com) to provide a convenient way to access the Gradient Sport REST API from applications written in Python.
 
 
 ### Step 1 - Clone this repo
